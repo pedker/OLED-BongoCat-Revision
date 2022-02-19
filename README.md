@@ -3,7 +3,7 @@
 This is a revised version of other projects that create the BongoCat animations for firmware on embedded OLED screens, fixing issues and adding new features.
 This project was made specifically for the Satisfaction75 Round 2 (AKA rev1), though its code can likely be stripped and repurposed for other 128x32p OLED screens.
 
-[Link to Reddit post with video example](https://github.com/pedker/OLED-BongoCat-Revision)
+[Link to Reddit post with video example](https://www.reddit.com/r/MechanicalKeyboards/comments/svym9a/i_revised_the_bongo_cat_animation_for_the_sat75/)
 
 ## Improvements Made
 - Updated code to support Satisfaction75 Round2/Rev1 firmware
