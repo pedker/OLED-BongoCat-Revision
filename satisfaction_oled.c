@@ -30,7 +30,10 @@ bool oled_task_kb(void) {
             draw_clock();
             break;
         case OLED_BONGO:
-            draw_bongo();
+            draw_bongo(false);
+            break;
+        case OLED_BONGO_MIN:
+            draw_bongo(true);
             break;
     }
     return false;
